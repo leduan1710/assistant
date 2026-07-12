@@ -57,12 +57,15 @@ this is safe to run in a fresh container every day.
 
 ## Daily job
 
-Runs on a schedule via [Railway/Render/Fly.io — fill in yours] cron.
+Runs on a schedule via Railway.
+<img width="747" height="182" alt="image" src="https://github.com/user-attachments/assets/dbee89f7-a485-4e43-9ada-09ab7ebc9b6c" />
+
 Logs: 
+<img width="1917" height="863" alt="image" src="https://github.com/user-attachments/assets/523171b8-99b8-49b1-b3d9-d2f7ddaca1ab" />
 
 ## Sample answer
 
-
+<img width="1117" height="462" alt="image" src="https://github.com/user-attachments/assets/0c7e7240-6e50-4e05-8202-a7889ff5a388" />
 
 ## Structure
 
